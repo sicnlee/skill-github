@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dc9e15be-35fa-42a9-b904-594105dfa134",
+  "path": "academy-guide",
+  "path_key": "academy-guide",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "git@github.com:anthropics/skills.git",
+    "subpath": "skills\\academy-guide",
+    "branch": null
+  }
+}

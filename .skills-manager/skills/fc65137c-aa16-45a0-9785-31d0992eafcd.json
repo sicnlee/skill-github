@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fc65137c-aa16-45a0-9785-31d0992eafcd",
+  "path": "nora-remote-python-server",
+  "path_key": "nora-remote-python-server",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f62505a8-641c-4387-b0f1-229553166e4d",
+  "path": "nora-ssh-remote-exec",
+  "path_key": "nora-ssh-remote-exec",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

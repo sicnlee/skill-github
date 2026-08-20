@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ccb89b90-642a-40d1-81ef-d5d160981083",
+  "path": "everything-search",
+  "path_key": "everything-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

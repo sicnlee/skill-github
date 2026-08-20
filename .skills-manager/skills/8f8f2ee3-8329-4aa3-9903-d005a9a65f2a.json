@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8f8f2ee3-8329-4aa3-9903-d005a9a65f2a",
+  "path": "doc-coauthoring",
+  "path_key": "doc-coauthoring",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "git@github.com:anthropics/skills.git",
+    "subpath": "skills\\doc-coauthoring",
+    "branch": null
+  }
+}

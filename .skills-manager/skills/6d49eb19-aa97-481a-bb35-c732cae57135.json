@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6d49eb19-aa97-481a-bb35-c732cae57135",
+  "path": "wandox-skill-uploader",
+  "path_key": "wandox-skill-uploader",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

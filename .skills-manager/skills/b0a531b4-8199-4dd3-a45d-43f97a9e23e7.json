@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b0a531b4-8199-4dd3-a45d-43f97a9e23e7",
+  "path": "internal-comms",
+  "path_key": "internal-comms",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "git@github.com:anthropics/skills.git",
+    "subpath": "skills\\internal-comms",
+    "branch": null
+  }
+}

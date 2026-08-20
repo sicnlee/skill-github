@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "67422e16-ae75-469a-80a8-6f77e98127e2",
+  "path": "nora-server-file-transfer",
+  "path_key": "nora-server-file-transfer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

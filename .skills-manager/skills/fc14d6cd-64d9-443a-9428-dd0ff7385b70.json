@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fc14d6cd-64d9-443a-9428-dd0ff7385b70",
+  "path": "tk-platform-reconcile",
+  "path_key": "tk-platform-reconcile",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

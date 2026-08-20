@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "45a853bf-2671-4911-9b98-73ab4ccfcd58",
+  "path": "get-weather",
+  "path_key": "get-weather",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

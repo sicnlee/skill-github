@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7fcc8e5a-1336-4351-8665-f317da22990c",
+  "path": "everything-find-files",
+  "path_key": "everything-find-files",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

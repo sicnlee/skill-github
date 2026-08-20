@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "252ea074-c58b-4c58-944d-776b2657f6c6",
+  "path": "wandox-admin-2",
+  "path_key": "wandox-admin-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

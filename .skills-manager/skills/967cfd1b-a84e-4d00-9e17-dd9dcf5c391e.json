@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "967cfd1b-a84e-4d00-9e17-dd9dcf5c391e",
+  "path": "nora-git-remote-repo",
+  "path_key": "nora-git-remote-repo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

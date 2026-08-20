@@ -1,0 +1,14 @@
+{
+  "api": {
+    "base_url": "https://wttr.in",
+    "format_param": "j1",
+    "lang_param": "zh",
+    "timeout_seconds": 10,
+    "user_agent": "get-weather-skill/1.0"
+  },
+  "url_template": "https://wttr.in/{city}?format=j1&lang=zh",
+  "notes": {
+    "city_encoding": "URL-encode city names; replace spaces with '+' for multi-word cities",
+    "chinese_cities": "wttr.in supports Chinese city names directly, e.g. 北京, 上海"
+  }
+}

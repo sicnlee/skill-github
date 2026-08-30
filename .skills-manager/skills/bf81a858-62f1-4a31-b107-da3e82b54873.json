@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bf81a858-62f1-4a31-b107-da3e82b54873",
+  "path": "feishu-doc-to-markdown",
+  "path_key": "feishu-doc-to-markdown",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

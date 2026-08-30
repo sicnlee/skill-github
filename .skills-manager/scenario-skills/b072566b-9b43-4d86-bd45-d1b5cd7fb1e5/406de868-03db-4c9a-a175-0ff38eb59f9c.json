@@ -4,17 +4,17 @@
   "skill_id": "406de868-03db-4c9a-a175-0ff38eb59f9c",
   "sort_order": 0,
   "tools": {
-    "claude_code": true,
-    "codebuddy": true,
-    "codex": true,
-    "continue": true,
-    "deepseek_harness": true,
-    "easyclaw": true,
-    "github_copilot": true,
-    "junie": true,
-    "opencode": true,
-    "qoder": true,
-    "windsurf": true,
-    "workbuddy": true
+    "claude_code": false,
+    "codebuddy": false,
+    "codex": false,
+    "continue": false,
+    "deepseek_harness": false,
+    "easyclaw": false,
+    "github_copilot": false,
+    "junie": false,
+    "opencode": false,
+    "qoder": false,
+    "windsurf": false,
+    "workbuddy": false
   }
 }

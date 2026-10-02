@@ -2,7 +2,7 @@
 name: get-weather
 description: 查询指定城市的实时天气信息，包括温度、天气状况和湿度。当用户询问天气、气温、下雨、晴天等与天气相关的问题时使用此技能。从用户输入中提取城市名称，调用 wttr.in 接口获取数据，并以标准格式返回中文天气摘要。
 metadata:
-  author: yuanyuan
+  author: 子一
   version: "1.0"
 allowed-tools: fetch_url
 ---
